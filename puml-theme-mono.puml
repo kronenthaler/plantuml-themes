@@ -24,7 +24,7 @@
 
 ' Main foreground color
 !if %not(%variable_exists("$CLR_FG"))
-  !$CLR_FG = "black"
+  !$CLR_FG = "#2050f6"
 !endif
 
 ' Less hued, 3 levels
